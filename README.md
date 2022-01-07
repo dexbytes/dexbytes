@@ -21,8 +21,11 @@ We did 500+ different web based projects from simple CMS to complex SaaS platfor
 
 
 ##**Our Technical Expertise**
+
 ✔ Cross Platform Development - Flutter
+
 ✔ Stacks: MERN, MEVN, MEAN, MEEN, LAMP
+
 ✔ Front-end Development -  React Js, Next Js, HTML5, CSS3 etc
 ✔ Back-end Development-  Laravel, CodeIgniter, CCore PHP, Node.js
 ✔ Databases - MongoDB, MySQL, PostgreSQL, SQLite
