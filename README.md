@@ -10,7 +10,7 @@ Since 2015 we have built and designed customized solutions for Fin-tech, Ecommer
 We are doing less but doing best in our class because our priority is to providing the best services to our clients. 
 ##
 
-##**Services**
+##  **Services**
 
 # Mobile development
 We come with the capabilities to handle the entire lifecycle of an android / iOS app, right from its designing to its maintenance. We strive to develop a scalable android / iOS app that meets your business goals and amplifies user engagement and retention. If you require a native cross-platform app, our services promise cutting-edge, customized solutions that cater to the business requirement in the best way.
@@ -20,7 +20,7 @@ We come with the capabilities to handle the entire lifecycle of an android / iOS
 We did 500+ different web based projects from simple CMS to complex SaaS platforms involving multiple technologies.
 
 
-##**Our Technical Expertise**
+## **Our Technical Expertise**
 
 ✔ Cross Platform Development - Flutter
 
