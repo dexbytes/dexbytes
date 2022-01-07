@@ -17,7 +17,7 @@ We come with the capabilities to handle the entire lifecycle of an android / iOS
 
 
 # Web development
-DexBytes Infotech is one of the top web development companies who provide the custom web development services to its clients worldwide. We did 500+ different projects in Web development from websites based on CMS to complex SaaS platforms involving multiple technologies.
+We did 500+ different web based projects from simple CMS to complex SaaS platforms involving multiple technologies.
 
 
 ##**Our Technical Expertise**
