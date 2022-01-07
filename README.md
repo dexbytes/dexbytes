@@ -7,7 +7,7 @@ We are one of the fast-growing software development companies in central India a
 Since 2015 we have built and designed customized solutions for Fin-tech, Ecommerce, E-learning, CRM, Health, Social, Entertainment, Transport, etc. companies. That wide range of work experience helped us to serve better to our clients by saving their time and energy.  
 
 ##
-We are doing less but doing best in our class because our priority is to providing the best services to our clients, 
+We are doing less but doing best in our class because our priority is to providing the best services to our clients. 
 ##
 
 ##**Services**
