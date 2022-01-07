@@ -24,13 +24,18 @@ We did 500+ different web based projects from simple CMS to complex SaaS platfor
 
 ✔ Cross Platform Development - Flutter
 
-✔ Stacks: MERN, MEVN, MEAN, MEEN, LAMP
+✔ Stacks: MERN, MEVN, MEAN, LAMP
 
 ✔ Front-end Development -  React Js, Next Js, HTML5, CSS3 etc
+
 ✔ Back-end Development-  Laravel, CodeIgniter, CCore PHP, Node.js
+
 ✔ Databases - MongoDB, MySQL, PostgreSQL, SQLite
+
 ✔ Cloud Services: Amazon Web Services, Google Cloud Platform, Firebase,  Azure
+
 ✔ Scrum / Agile Environments:  Github, Bitbucket, Gitlab, Slack, Jira, Trello
+
 
 
 Thank you for visiting our Git profile!
