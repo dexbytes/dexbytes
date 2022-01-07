@@ -22,7 +22,7 @@ We did 500+ different web based projects from simple CMS to complex SaaS platfor
 
 ## Our Technical Expertise
 
-✔ Cross Platform Development - Flutter
+✔ App Development - Flutter backed by Google
 
 ✔ Stacks: MERN, MEVN, MEAN, LAMP
 
